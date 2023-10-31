@@ -1,0 +1,36 @@
+body{
+	font-size: 20px;
+	font-family: Algerian;
+	background-color:lightyellow;
+	justify-content: center;
+	align-items: center;
+	height:100vh;
+
+}
+.f1{
+	padding: 15px;
+	justify-content: center;
+	align-items:center ;
+	width:600px ;
+ 
+}
+.f1 label
+{
+	display:flex;
+}
+.f1 input{
+	padding: 10px;
+	align-items:center ;
+	width: 30%;
+
+}
+.button{
+	background-color: lightyellow;
+	color: black;
+	padding:50px;
+	border:black 2px solid;
+
+}
+.button:hover{
+	background-color: lightgrey;
+}
